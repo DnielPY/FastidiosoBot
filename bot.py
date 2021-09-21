@@ -29,7 +29,7 @@ import time
 import random
 
 #   TOKEN
-updater = Updater(token='1909204788:AAE9uQZXBrgeyfv9SUhE_wnMEvY8gLP9mEs')
+updater = Updater(token='1909204788:AAEci_t-G40sJ3n0-grS_WUIFny4-A5y5C8')
 
 #   DISTPATCHER
 dispatcher = updater.dispatcher
